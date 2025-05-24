@@ -1,0 +1,33 @@
+Order,Destination,Distance
+Blagodarnyy,Budonnovsk,157
+Blagodarnyy,Svetlograd,132
+Budonnovsk,Zelenokumsk,104
+Budonnovsk,Neftekumsk,189
+Zelenokumsk,Georgievsk,34
+Novopavlovsk,Georgievsk,46
+Novopavlovsk,Pyatigorsk,123
+Pyatigorsk,Georgievsk,101
+Pyatigorsk,Mineral'nyye Vody,17
+Pyatigorsk,Zheleznovodsk,88
+Pyatigorsk,Lermontov,14
+Pyatigorsk,Yessentuki,93
+Georgievsk,Mineral'nyye Vody,72
+Mineral'nyye Vody,Zheleznovodsk,111
+Mineral'nyye Vody,Nevinnomyssk,167
+Mineral'nyye Vody,Blagodarnyy,194
+Mineral'nyye Vody,Svetlograd,142
+Georgievsk,Zheleznovodsk,41
+Zheleznovodsk,Lermontov,27
+Zheleznovodsk,Yessentuki,59
+Yessentuki,Nevinnomyssk,122
+Blagodarnyy,Nevinnomyssk,185
+Nevinnomyssk,Stavropol,63
+Nevinnomyssk,Novoaleksandrovsk,155
+Novoaleksandrovsk,Izobil'nyy,58
+Izobil'nyy,Mikhaylovsk,31
+Izobil'nyy,Stavropol,97
+Stavropol,Mikhaylovsk,22
+Izobil'nyy,Svetlograd,108
+Izobil'nyy,Ipatovo,176
+Svetlograd,Mikhaylovsk,76
+Svetlograd,Ipatovo,60
